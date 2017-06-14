@@ -19,14 +19,26 @@ Platform assembly: C:\UnityProjects\MyUnityGame\Sokkelo\Sokkelo\FindBeemo_Data\M
 Loading C:\UnityProjects\MyUnityGame\Sokkelo\Sokkelo\FindBeemo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\UnityProjects\MyUnityGame\Sokkelo\Sokkelo\FindBeemo_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading C:\UnityProjects\MyUnityGame\Sokkelo\Sokkelo\FindBeemo_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.052 seconds
+- Completed reload, in  0.023 seconds
 Platform assembly: C:\UnityProjects\MyUnityGame\Sokkelo\Sokkelo\FindBeemo_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\UnityProjects\MyUnityGame\Sokkelo\Sokkelo\FindBeemo_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.534425 ms
+UnloadTime: 92.270393 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 1c6c -> priority: 1 
-  Thread -> id: 2d14 -> priority: 1 
+  Thread -> id: 1eb0 -> priority: 1 
+  Thread -> id: 34f8 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 43.791859 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 420.
+Total: 0.434497 ms (FindLiveObjects: 0.044048 ms CreateObjectMapping: 0.025659 ms MarkObjects: 0.113328 ms  DeleteObjects: 0.250605 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.838058 ms
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 304.
+Total: 1.677690 ms (FindLiveObjects: 0.039771 ms CreateObjectMapping: 0.023948 ms MarkObjects: 0.130862 ms  DeleteObjects: 1.481824 ms)
+
